@@ -1,7 +1,7 @@
 safe: true
-title: "Capstone Domain: Graph Data Analysis"
+title: "Capstone Domain: Deloitte Travel Models"
 source: .
 destination: _site
-url: "https://gmishne.github.io"
-baseurl: "/capstone-graph-analysis"
+url: "https://acloninger.github.io"
+baseurl: "/capstone-deloitte-travel-models"
 permalink: /:url/
