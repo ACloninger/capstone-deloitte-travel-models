@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Graph Data Analysis"
+title: "Activity Based Travel Models and Feature Selection"
 doodle: "/doodle.png"
 permalink: /
 ---
 
-Data science capstone domain of inquiry (DSC 180AB B01)
+Data science capstone domain of inquiry (DSC 180AB B05)
 
-Developed by Gal Mishne, Alex Cloninger
+Developed by Alex Cloninger, Dan Baeder, Steve Hardy, Deloitte Team
 
 ---
 * TOC
@@ -17,28 +17,30 @@ Developed by Gal Mishne, Alex Cloninger
 
 # Introduction
 
-This domain will investigate analysis of data lying on irregular structure, or graphs. This domain centers around understanding graph-based data and graphs as data. To approach this problem we will mainly be focusing on Graph Neural Networks.
+This domain will investigate activity based travel demand moels.  This domain also centers on feature extraction and model validation for speeding up such agent based models.
 
-Graphs and networks are playing an increasing role in modern machine learning and signal processing. We can view graph-based data as an augmented data structure, where in addition to having a feature representation for every datapoint (nodes in the graphs), we also have knowledge of the interactions and connectivity between points (graph edges). Graphs-based data is prevalent across domains such as biology (neuronal networks in the brain), computer science (social networks), electrical engineering (sensor networks), civil engineering (traffic networks) and many, many more.
+A critical element of a transportation demand model is the capability to estimate mode choice; the travel mode (drive alone, carpool, bike, transit, etc.) that each synthetic person uses to get from activity to activity. Correctly determining the distribution of modes in the model has implications for understanding the impact of any policy, land use, or infrastructure change over time. 
 
-Some questions we will be answering throughout this domain:
-- How to model irregularly structured data?
-- How to scale models and methods to large-scale graphs?
-- How to benchmark machine learning approaches on graph-based data?
+A common approach to mode choice estimation is through use of a complex framework rooted in utility theory.  This setup typically involves a multitude of features and associated coefficients, many of which likely have a negligible impact of mode choice determination but make constructing the model challenging.  We will be investigating machine learning approaches to mode choice modeling that involves identifying only essential features and building a simplified model that can be more easily generalized and deployed.
+ 
+Some questions we wil be answering throughout this domain:
+- Can we use a machine learning approach, such as XGBoost or another tree-based method, to
+construct a simplified mode choice model by identifying features that are most important to
+determining mode choice?
+- How can we confirm that a revised model yields appropriate results compared to other
+methods?
+- Can we generalize the approach to other populations?
 
-While a vast array of machine learning techniques rely on graphs and graph-based representations to analyze data (hierarchical clustering, spectral clustering, manifold learning, community detection, manifold/graph regularization), in this domain we will focus on geometric deep learning, or graph neural networks.
 
 ## Result replication (introduction to topic)
 
-We will delve into this area via the following two papers:
-- [Inductive Representation Learning on Large Graphs](https://www-cs.stanford.edu/~jure/pubs/graphsage-nips17.pdf), Hamilton, Ying and Leskovec, NeurIPS 2017
-- [Unifying Graph Convolutional Neural Networks and Label Propagation](https://arxiv.org/pdf/2002.06755), Wang and Leskovec 2020
+We will delve into this area via the following papers:
+- [Activity-Based Travel Demand Models: A Primer](http://onlinepubs.trb.org/onlinepubs/shrp2/SHRP2_C46.pdf), National Academies of Sciences, Engineering, and Medicine 2014  (selected chapers only).
+- [Mode Choice Analysis Using Random Forest Decision Trees](https://www.sciencedirect.com/science/article/pii/S2352146516307347), Sekhar, Ravi, et al., 11th Transportation Planning and Implementation Methodologies for Developing Countries, 2014.
+- [A Boosted Decision Tree Approach Using Bayesian HYPER-PARAMETER Optimization for Credit Scoring](https://www.sciencedirect.com/science/article/pii/S0957417417301008), Xia, Yufei, et al. Expert Systems with Applications, vol. 78, 2017.
 
-and replicate results on datasets from [Open graph benchmark: Datasets for machine learning on graphs](https://arxiv.org/abs/2005.00687)
+and replicate results on datasets provided by Deloitte.
 
-
-# COVID-19
-The course staff recognizes that the current situation is changing on a rapid basis, and specifically presents challenges for learning. You may be concerned about your own health, as well as the health of your friends and family. You may be dealing with financial concerns or balancing new responsibilities such as childcare. While several months have passed since the beginning of the pandemic, these remain challenging times for all of us from many perspectives. We encourage you to be compassionate, patient and forgiving of the mistakes we are all going to make in continuing to adapt to the remote learning environment. Please reach out to the course staff as necessary so we can help you overcome any difficulties to in this course despite current circumstances.
 
 # Section Participation
 
@@ -63,15 +65,15 @@ end of the quarter.
 
 |Week|Topic|
 |--|--|
-|1|[Introduction]({{ "weeks/01-Introduction" | absolute_url }})|
-|2|[Graph-based Data]({{ "/weeks/02-Data" | absolute_url }})|
-|3|[Graph Neural Networks]({{ "/weeks/03-Graph-Methods-I" | absolute_url }})|
-|4|[Label Propogation]({{ "/weeks/04-Label-Propogation" | absolute_url }})|
-|5|[Baseline Model]({{ "/weeks/05-Baseline-Model" | absolute_url }})|
-|6|[Random walks on graphs]({{ "/weeks/06-Random-walks" | absolute_url }})|
-|7|[Benchmaring Graph neural networks]({{ "/weeks/07-Benchmark" | absolute_url }})|
-|8|[Graph Embeddings]({{ "/weeks/08-Graph-Methods-II" | absolute_url }})|
-|9|[Ethics in network analysis]({{ "/weeks/09-ethics" | absolute_url }})|
+|1|[Introduction]({{ "/weeks/01-Introduction" | absolute_url }})|
+|2|[Activity Based Travel Models]({{ "/weeks/02-Activity-Models" | absolute_url }})|
+|3|[Travel Mode Choice]({{ "/weeks/03-Mode-Choice" | absolute_url }})|
+|4|[Tree Based Methods]({{ "/weeks/04-Trees" | absolute_url }})|
+|5|[XGBoost]({{ "/weeks/05-XGBoost" | absolute_url }})|
+|6|[Constructing a Tree Moel]({{ "/weeks/06-XGBoost" | absolute_url }})|
+|7|[Hyperparameters]({{ "/weeks/07-Hyperparameters" | absolute_url }})|
+|8|[Feature Selection]({{ "/weeks/08-Feature-Selection" | absolute_url }})|
+|9|[Model Validation]({{ "/weeks/09-Model-Validation" | absolute_url }})|
 |10|Present Proposals|
 
 ---
