@@ -22,6 +22,7 @@ This week
 ### Tasks
 
 Complete the following tasks:
+
 1. 
 * 
 
