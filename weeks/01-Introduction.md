@@ -17,10 +17,8 @@ This week's assignments will guide you through the following topics:
 ## Reading
 
 Please read the following:
-- 
-
-The mathematical background in this paper will provide you with the necessary mathematical definitions to discuss graphs:
-- 
+- [Massive-Scale Models of Urban Infrastructure and Populations](https://link.springer.com/chapter/10.1007%2F978-3-030-21741-9_12)
+- Chapter 1 of [Activity-Based Travel Demand Models: A Primer](http://onlinepubs.trb.org/onlinepubs/shrp2/SHRP2_C46.pdf)
 
 
 ## Weekly Questions
