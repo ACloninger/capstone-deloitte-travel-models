@@ -4,7 +4,7 @@ title: Week 02
 doodle: /doodle.png
 ---
 
-# Activity Based Models
+## Topics
 
 This week's assignments will guide you through the following topics:
 * Agent based modeling
@@ -16,10 +16,10 @@ Please read the following:
 * Read Sections  of [Activity-Based Travel Demand Models: A Primer](http://onlinepubs.trb.org/onlinepubs/shrp2/SHRP2_C46.pdf)
 
 
-### Replication task
+## Replication task
 This week 
 
-## Tasks
+### Tasks
 
 Complete the following tasks:
 1. 
