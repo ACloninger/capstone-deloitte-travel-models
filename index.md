@@ -66,14 +66,14 @@ end of the quarter.
 |Week|Topic|
 |--|--|
 |1|[Introduction]({{ "/weeks/01-Introduction" | absolute_url }})|
-|2|[Activity Based Travel Models]({{ "/weeks/02-Activity-Models" | absolute_url }})|
-|3|[Travel Mode Choice]({{ "/weeks/03-Mode-Choice" | absolute_url }})|
-|4|[Tree Based Methods]({{ "/weeks/04-Trees" | absolute_url }})|
-|5|[XGBoost]({{ "/weeks/05-XGBoost" | absolute_url }})|
-|6|[Constructing a Tree Moel]({{ "/weeks/06-XGBoost" | absolute_url }})|
-|7|[Hyperparameters]({{ "/weeks/07-Hyperparameters" | absolute_url }})|
-|8|[Feature Selection]({{ "/weeks/08-Feature-Selection" | absolute_url }})|
-|9|[Model Validation]({{ "/weeks/09-Model-Validation" | absolute_url }})|
+|2|[Activity Based Travel Models]({{ "/weeks/02-Mode-Choice-Modeling" | absolute_url }})|
+|3|[Travel Mode Choice]({{ "/weeks/03-Data-Preparation" | absolute_url }})|
+|4|[Tree Based Methods]({{ "/weeks/04-XGBoost" | absolute_url }})|
+|5|[XGBoost]({{ "/weeks/05-Classifier-Construction" | absolute_url }})|
+|6|[Constructing a Tree Moel]({{ "/weeks/06-Feature-Selection" | absolute_url }})|
+|7|[Hyperparameters]({{ "/weeks/07-Results-Analysis" | absolute_url }})|
+|8|[Feature Selection]({{ "/weeks/08-Hyperparameter-Optimization" | absolute_url }})|
+|9|[Model Validation]({{ "/weeks/09-Ethics-of-Mobility-Data-Collection" | absolute_url }})|
 |10|Present Proposals|
 
 ---
