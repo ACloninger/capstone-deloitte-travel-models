@@ -37,9 +37,9 @@ methods?
 We will delve into this area via the following papers:
 - [Activity-Based Travel Demand Models: A Primer](http://onlinepubs.trb.org/onlinepubs/shrp2/SHRP2_C46.pdf), National Academies of Sciences, Engineering, and Medicine 2014  (selected chapers only).
 - [Mode Choice Analysis Using Random Forest Decision Trees](https://www.sciencedirect.com/science/article/pii/S2352146516307347), Sekhar, Ravi, et al., 11th Transportation Planning and Implementation Methodologies for Developing Countries, 2014.
-- [A Boosted Decision Tree Approach Using Bayesian HYPER-PARAMETER Optimization for Credit Scoring](https://www.sciencedirect.com/science/article/pii/S0957417417301008), Xia, Yufei, et al. Expert Systems with Applications, vol. 78, 2017.
+- [An optimized XGBoost based diagnostic system for effective prediction of heart disease](https://www.sciencedirect.com/science/article/pii/S1319157820304936)
 
-and replicate results on datasets provided by Deloitte.
+and replicate results in preparation for analysis of the travel mode choice data.
 
 
 # Section Participation
