@@ -14,7 +14,7 @@ This week's assignments will guide you through the following topics:
 
 Please read the following:
 * Read Sections 3.1  of [Activity-Based Travel Demand Models: A Primer](http://onlinepubs.trb.org/onlinepubs/shrp2/SHRP2_C46.pdf)
-* Read [Mode Choice Analysis Using Random Forrest Decision Trees](https://www.sciencedirect.com/science/article/pii/S2352146516307347)
+* Supplemental reading [Mode Choice Analysis Using Random Forrest Decision Trees](https://www.sciencedirect.com/science/article/pii/S2352146516307347)
 
 ## Replication task
 This week 
