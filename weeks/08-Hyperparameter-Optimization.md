@@ -1,6 +1,6 @@
 ---
 layout: week
-title: Week 09
+title: Week 08
 doodle: /doodle.png
 ---
 
