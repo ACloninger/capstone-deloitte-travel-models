@@ -78,8 +78,8 @@ end of the quarter.
 
 ---
 
-# Office Hours
-
+# Office Hours with Deloitte researchers
+Friday 10-11am PT, same zoom link as course
 
 
 
