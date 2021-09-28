@@ -77,9 +77,16 @@ end of the quarter.
 |10|Present Proposals|
 
 ---
-
 # Office Hours with Deloitte researchers
 Friday 10-11am PT, same zoom link as course
+
+# Course location
+See email to section for Zoom link
+
+# Slack location
+See email to section for link to join Slack channel
+
+
 
 
 
