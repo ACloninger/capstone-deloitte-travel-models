@@ -11,7 +11,7 @@ This domain centers on activity based models and predicting travel mode choice. 
 
 This week's assignments will guide you through the following topics:
 - Introduction to agent based models
-- Introduction to travel mode choicer models
+- Introduction to travel mode choice models
     
 
 ## Reading
