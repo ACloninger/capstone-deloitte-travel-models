@@ -23,7 +23,7 @@ Please read the following:
 
 ## Replication task
 
-* Read in the heart dataset (HeartData_Full.csv) and explore the variable types
+* Read in the heart dataset ([HeartData_Full.csv](../data/HeartData_Full.csv)) and explore the variable types
 * One-hot encode the categorical variables
 * Convert the response variable (num) into a binary variable in the same way the authors do
 
