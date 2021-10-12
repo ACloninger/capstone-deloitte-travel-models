@@ -17,7 +17,7 @@ Please read the following:
 * Supplemental reading [Mode Choice Analysis Using Random Forrest Decision Trees](https://www.sciencedirect.com/science/article/pii/S2352146516307347)
 
 ## Replication task
-* Take a look at the heart dataset ([HeartData_Full.csv](data/HeartData_Full.csv) and make sure you can read it into a Jupyter notebook. We'll talk about data cleaning next week, but feel free to take a first pass at exploring the data.
+* Take a look at the heart dataset ([HeartData_Full.csv](../data/HeartData_Full.csv)) and make sure you can read it into a Jupyter notebook. We'll talk about data cleaning next week, but feel free to take a first pass at exploring the data.
 * You'll eventually use the scikit-learn and xgboost libraries as you build your classification model in the coming weeks. Try to install both this week so we have to troubleshoot if necessary. 
 
 ### Tasks
