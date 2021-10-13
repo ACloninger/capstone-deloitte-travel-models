@@ -20,6 +20,7 @@ Please read the following:
 * Read Sections 1, 2.1, 2.2, 2.6, and 3.1 of [An optimized XGBoost based diagnostic system for effective prediction of heart disease](https://www.sciencedirect.com/science/article/pii/S1319157820304936)
 * Supplemental reading [Data Preparation for Gradient Boosting with XGBoost in Python](https://machinelearningmastery.com/data-preparation-gradient-boosting-xgboost-python/)
 * Supplemental Reading [Data Cleaning with Python](https://medium.com/bitgrit-data-science-publication/data-cleaning-with-python-f6bc3da64e45)
+* Useful documentation for considering model pipeline [Scikit-Learn Decision Tree](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 
 ## Replication task
 
