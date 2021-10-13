@@ -26,6 +26,8 @@ Please read the following:
 * Read in the heart dataset ([HeartData_Full.csv](../data/HeartData_Full.csv)) and explore the variable types
 * One-hot encode the categorical variables
 * Convert the response variable (num) into a binary variable in the same way the authors do
+* Create a pipeline for determining if there are "problem" features with non-numeric values, missing data, etc
+* Use pipeline to look at any correlations / obvious relationships between pairwise features
 
 
 ## Tasks
