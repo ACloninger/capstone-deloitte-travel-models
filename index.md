@@ -83,6 +83,9 @@ Friday 10-11am PT, same zoom link as course
 # Course location
 See email to section for Zoom link
 
+The Github page for this website that contains all needed code / data not specifically linked on the website is here: 
+[https://github.com/ACloninger/capstone-deloitte-travel-models](https://github.com/ACloninger/capstone-deloitte-travel-models)
+
 # Slack location
 See email to section for link to join Slack channel
 
