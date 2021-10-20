@@ -9,7 +9,7 @@ doodle: /doodle.png
 
 This week's assignments will guide you through the following topics:
 
-* 
+* Understanding the foundational principles behind XGBoost
 
 ## Reading
 
@@ -22,12 +22,17 @@ Please read the following:
 
 ## Replication task
 
-* 
+* Prepare heart data for modeling by:
+	* Removing unhelpful variables (e.g., all values coded as missing or all values coded identically)
+	* Transforming variables to numeric or categorical based on the data dictionary
+	* One-hot encoding categorical variables
+	* Converting the resulting dataframe to an array
 
 ## Tasks
 
 Complete the following tasks:
 
+* Answer the questions below
 * Clean and prepare heart disease dataset to mirror paper
 
 
@@ -35,4 +40,7 @@ Complete the following tasks:
 
 Answer the following questions
 
-* 
+* What is training loss and what is regularization? Why do we care about both of these terms in defining an objective function for a supervised learning model?
+* What is an ensemble model and specifically how, in general terms, do decision tree ensembles work?
+* What is boosting, how is it different than bagging, and why is boosting a useful technique for building models?
+* What are 'weak learners'?
