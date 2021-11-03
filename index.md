@@ -70,7 +70,7 @@ end of the quarter.
 |3|[Travel Mode Choice]({{ "/weeks/03-Data-Preparation" | absolute_url }})|
 |4|[Tree Based Methods]({{ "/weeks/04-XGBoost" | absolute_url }})|
 |5|[XGBoost]({{ "/weeks/05-Classifier-Construction" | absolute_url }})|
-|6|[Constructing a Tree Moel]({{ "/weeks/06-Feature-Selection" | absolute_url }})|
+|6|[Constructing a Tree Moel]({{ "/weeks/06-Hyperparameter-Tuning.md" | absolute_url }})|
 |7|[Hyperparameters]({{ "/weeks/07-Results-Analysis" | absolute_url }})|
 |8|[Feature Selection]({{ "/weeks/08-Hyperparameter-Optimization" | absolute_url }})|
 |9|[Model Validation]({{ "/weeks/09-Ethics-of-Mobility-Data-Collection" | absolute_url }})|
