@@ -16,7 +16,7 @@ This week's assignments will guide you through the following topics:
 
 Please read the following:
 
-* Supplemental Reading [Feature Importance and Feature Selection With XGBoost in Python](https://machinelearningmastery.com/feature-importance-and-feature-selection-with-xgboost-in-python/)
+* Read Sections 3c and 4a of [An optimized XGBoost based diagnostic system for effective prediction of heart disease](https://www.sciencedirect.com/science/article/pii/S1319157820304936)
 
 ## Replication task
 
