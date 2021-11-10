@@ -71,9 +71,9 @@ end of the quarter.
 |4|[Tree Based Methods]({{ "/weeks/04-XGBoost" | absolute_url }})|
 |5|[XGBoost]({{ "/weeks/05-Classifier-Construction" | absolute_url }})|
 |6|[Hyperparameters]({{ "/weeks/06-Hyperparameter-Tuning" | absolute_url }})|
-|7|[Results Analysis]({{ "/weeks/07-Results-Analysis" | absolute_url }})|
-|8|[Feature Selection]({{ "/weeks/08-Hyperparameter-Optimization" | absolute_url }})|
-|9|[Model Validation]({{ "/weeks/09-Ethics-of-Mobility-Data-Collection" | absolute_url }})|
+|7|[Feature Selection]({{ "/weeks/07-Feature-Selection" | absolute_url }})|
+|8|[]({{ "/weeks/08-Hyperparameter-Optimization" | absolute_url }})|
+|9|[Ethics of Mobility Data]({{ "/weeks/09-Ethics-of-Mobility-Data-Collection" | absolute_url }})|
 |10|Present Proposals|
 
 ---
