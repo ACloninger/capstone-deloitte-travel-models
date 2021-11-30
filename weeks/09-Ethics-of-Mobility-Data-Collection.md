@@ -10,7 +10,7 @@ doodle: /doodle.png
 
 This week's assignments will guide you through the following topics:
 
-* 
+* Ethics of collecting mobility data
 
 ## Reading
 
@@ -20,18 +20,14 @@ Please read the following:
 
 ## Replication task
 
-* 
+* Make sure you've completed your model build for the heart data and finalized the writing from this that will be added to the Q2 proposal.
+* Write your Q2 elevator pitch and work on your Q2 proposal.
 
-
-## Tasks
-
-Complete the following tasks:
-
-*
 
 
 ## Weekly Questions
 
 Answer the following questions
 
-* 
+* What surprised you most about the Unique in the Crowd paper?
+* What are potential policies you'd like to see in place to protect privacy concerns addressed here while maintaining the ability to use the data for research? 
